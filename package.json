@@ -4,6 +4,7 @@
   "description": "Babel과 Webpack을 이용한 ES6 환경 구축",
   "main": "index.js",
   "scripts": {
+    "build": "babel src/js -w -d dist/js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
