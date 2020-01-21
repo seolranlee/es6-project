@@ -19,6 +19,7 @@
   "homepage": "https://github.com/seolranlee/es6-project#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.3",
-    "@babel/core": "^7.8.3"
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3"
   }
 }
