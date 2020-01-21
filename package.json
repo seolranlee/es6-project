@@ -1,0 +1,24 @@
+{
+  "name": "es6-project",
+  "version": "1.0.0",
+  "description": "Babel과 Webpack을 이용한 ES6 환경 구축",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seolranlee/es6-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seolranlee/es6-project/issues"
+  },
+  "homepage": "https://github.com/seolranlee/es6-project#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3"
+  }
+}
